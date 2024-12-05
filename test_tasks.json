@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "title": "Test Task",
+        "description": "Description",
+        "category": "Work",
+        "due_date": "2024-12-31",
+        "priority": "Высокий",
+        "status": "Не выполнена"
+    }
+]
